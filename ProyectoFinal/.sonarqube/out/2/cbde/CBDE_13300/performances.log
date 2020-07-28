@@ -1,0 +1,186 @@
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Correo.cs
+enviarCorreo 1
+enviarCorreo 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormCalificarTrabajo.cs
+LlenarTabla 2
+LlenarTabla 0
+btnBuscar_Click 1
+btnBuscar_Click 0
+btnSalir_Click 2
+btnSalir_Click 0
+btnCalificar_Click 3
+btnCalificar_Click 0
+radioBtn1_CheckedChanged 1
+radioBtn1_CheckedChanged 0
+radioBtn2_CheckedChanged 1
+radioBtn2_CheckedChanged 0
+radioBtn3_CheckedChanged 1
+radioBtn3_CheckedChanged 0
+radioBtn4_CheckedChanged 1
+radioBtn4_CheckedChanged 0
+radioBtn5_CheckedChanged 26
+radioBtn5_CheckedChanged 0
+dataGridView1_CellContentClick 1
+dataGridView1_CellContentClick 0
+FormCalificarTrabajo_Load 1
+FormCalificarTrabajo_Load 0
+txtIdTrabajo_TextChanged 1
+txtIdTrabajo_TextChanged 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormCalificarTrabajo.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 45
+InitializeComponent 46
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormEnviarCorreo.cs
+BtnEnviar_Click 3
+BtnEnviar_Click 0
+btnAdjuntar_Click 1
+btnAdjuntar_Click 0
+txtEmisor_TextChanged 1
+txtEmisor_TextChanged 0
+label1_Click 1
+label1_Click 0
+Form1_Load 1
+Form1_Load 0
+btnCancelar_Click 1
+btnCancelar_Click 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormEnviarCorreo.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 36
+InitializeComponent 31
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormLogin.cs
+btnIngresar_Click 3
+btnIngresar_Click 0
+btnSalir_Click 1
+btnSalir_Click 0
+label3_Click 1
+label3_Click 0
+txtaver_TextChanged 1
+txtaver_TextChanged 0
+linkLblCrearCuenta_LinkClicked 1
+linkLblCrearCuenta_LinkClicked 0
+txtUsuario_TextChanged 1
+txtUsuario_TextChanged 0
+FormLogin_Load 1
+FormLogin_Load 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormLogin.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 17
+InitializeComponent 15
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormModTrabajo.cs
+Form1_Load 1
+Form1_Load 0
+btnGuardar_Click 4
+btnGuardar_Click 0
+label1_Click 1
+label1_Click 0
+textBox6_TextChanged 1
+textBox6_TextChanged 0
+btnCancelar_Click 1
+btnCancelar_Click 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormModTrabajo.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 30
+InitializeComponent 31
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormPublicarTrabajo.cs
+listBox1_SelectedIndexChanged 1
+listBox1_SelectedIndexChanged 0
+label1_Click 1
+label1_Click 0
+btnPubliTrabajo_Click 3
+btnPubliTrabajo_Click 0
+Form1_Load 1
+Form1_Load 0
+label7_Click 1
+label7_Click 0
+txtCorreo_TextChanged 1
+txtCorreo_TextChanged 0
+label1_Click_1 1
+label1_Click_1 0
+txtOficio_TextChanged 1
+txtOficio_TextChanged 0
+btnCancelar_Click 1
+btnCancelar_Click 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormPublicarTrabajo.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 34
+InitializeComponent 31
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormRegistrarUsuario.cs
+btnRegistrar_Click 4
+btnRegistrar_Click 15
+dataGridView1_CellContentClick 1
+dataGridView1_CellContentClick 0
+Form1_Load 1
+Form1_Load 0
+label3_Click 1
+label3_Click 0
+BtnCancelar_Click 1
+BtnCancelar_Click 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormRegistrarUsuario.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 48
+InitializeComponent 46
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\frmMain.cs
+Notificacion_Load 1
+Notificacion_Load 0
+textBox1_TextChanged 1
+textBox1_TextChanged 0
+btnPublicarTrabajo_Click 1
+btnPublicarTrabajo_Click 0
+BtnSalir_Click 1
+BtnSalir_Click 0
+BtnCalifTrabajo_Click 1
+BtnCalifTrabajo_Click 0
+dataGridView1_CellContentClick 1
+dataGridView1_CellContentClick 0
+btnContacUsuario_Click 1
+btnContacUsuario_Click 0
+textBox2_TextChanged 1
+textBox2_TextChanged 0
+radioButton1_CheckedChanged 2
+radioButton1_CheckedChanged 0
+radioButton2_CheckedChanged 2
+radioButton2_CheckedChanged 0
+radioButton3_CheckedChanged 3
+radioButton3_CheckedChanged 0
+numSalario_ValueChanged 3
+numSalario_ValueChanged 0
+btnModTrabajo_Click 2
+btnModTrabajo_Click 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\frmMain.Designer.cs
+Dispose 1
+Dispose 0
+InitializeComponent 59
+InitializeComponent 46
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Program.cs
+Main 2
+Main 0
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Properties\AssemblyInfo.cs
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Properties\Resources.Designer.cs
+
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Properties\Settings.Designer.cs
+
+C:\Users\ASUS\AppData\Local\Temp\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+

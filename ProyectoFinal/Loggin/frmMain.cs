@@ -74,7 +74,7 @@ namespace Loggin
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnContacUsuario para abrir la ventana Contactar Usuario.</summary>
@@ -89,7 +89,7 @@ namespace Loggin
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control del radioButton1 para filtrar salario de 0 a 30.</summary>

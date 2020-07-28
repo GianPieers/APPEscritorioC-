@@ -24,7 +24,7 @@ namespace ModificarPublicacion
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnGuardar.</summary>
@@ -69,12 +69,12 @@ namespace ModificarPublicacion
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnCancelar.</summary>

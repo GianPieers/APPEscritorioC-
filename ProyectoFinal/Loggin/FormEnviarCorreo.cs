@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
+
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
+
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Loggin;
@@ -59,17 +58,17 @@ namespace EnviarCorreo
 
         private void txtEmisor_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnCancelar.</summary>
@@ -80,6 +79,11 @@ namespace EnviarCorreo
             Notificacion notificacion = new Notificacion();
             this.Hide();
             notificacion.Show();
+        }
+
+        private void rtbMensaje_TextChanged(object sender, EventArgs e)
+        {
+            //no hace nada
         }
     }
 }

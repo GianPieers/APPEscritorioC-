@@ -79,17 +79,17 @@ namespace RegistrarUsuario
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            //no hace nada
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ;
+            //no hace nada
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de BtnCancelar.</summary>

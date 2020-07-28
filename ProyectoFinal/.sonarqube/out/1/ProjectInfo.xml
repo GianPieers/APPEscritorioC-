@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>PruebaFinal</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>601a42ca-c018-458d-9844-f8299ba661df</ProjectGuid>
+  <FullPath>D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\PruebaFinal\PruebaFinal.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.dll.RoslynCA.json|D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\PruebaFinal\bin\Debug\PruebaFinal.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

@@ -59,7 +59,7 @@
             this.label1.Location = new System.Drawing.Point(47, 84);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 13);
+            this.label1.Size = new System.Drawing.Size(96, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "TU CORREO*";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -72,7 +72,7 @@
             this.label2.Location = new System.Drawing.Point(50, 285);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(85, 13);
+            this.label2.Size = new System.Drawing.Size(108, 17);
             this.label2.TabIndex = 1;
             this.label2.Text = "CONTRASEÑA*";
             // 
@@ -84,7 +84,7 @@
             this.label3.Location = new System.Drawing.Point(45, 139);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(106, 13);
+            this.label3.Size = new System.Drawing.Size(134, 17);
             this.label3.TabIndex = 2;
             this.label3.Text = "DESTINADO PARA*";
             // 
@@ -96,7 +96,7 @@
             this.label4.Location = new System.Drawing.Point(46, 187);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(56, 13);
+            this.label4.Size = new System.Drawing.Size(71, 17);
             this.label4.TabIndex = 3;
             this.label4.Text = "ASUNTO*";
             // 
@@ -108,7 +108,7 @@
             this.label5.Location = new System.Drawing.Point(50, 237);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(65, 13);
+            this.label5.Size = new System.Drawing.Size(82, 17);
             this.label5.TabIndex = 4;
             this.label5.Text = "ADJUNTAR";
             // 
@@ -120,7 +120,7 @@
             this.txtEmisor.ForeColor = System.Drawing.SystemColors.InactiveBorder;
             this.txtEmisor.Location = new System.Drawing.Point(50, 101);
             this.txtEmisor.Name = "txtEmisor";
-            this.txtEmisor.Size = new System.Drawing.Size(395, 18);
+            this.txtEmisor.Size = new System.Drawing.Size(395, 23);
             this.txtEmisor.TabIndex = 5;
             this.txtEmisor.Text = "ejemplo@gmail.com";
             this.txtEmisor.TextChanged += new System.EventHandler(this.txtEmisor_TextChanged);
@@ -134,7 +134,7 @@
             this.txtReceptor.Location = new System.Drawing.Point(48, 156);
             this.txtReceptor.Margin = new System.Windows.Forms.Padding(4);
             this.txtReceptor.Name = "txtReceptor";
-            this.txtReceptor.Size = new System.Drawing.Size(395, 18);
+            this.txtReceptor.Size = new System.Drawing.Size(395, 23);
             this.txtReceptor.TabIndex = 6;
             this.txtReceptor.Text = "ejemplo@gmail.com";
             // 
@@ -147,7 +147,7 @@
             this.txtAsunto.Location = new System.Drawing.Point(48, 205);
             this.txtAsunto.Margin = new System.Windows.Forms.Padding(4);
             this.txtAsunto.Name = "txtAsunto";
-            this.txtAsunto.Size = new System.Drawing.Size(396, 18);
+            this.txtAsunto.Size = new System.Drawing.Size(396, 23);
             this.txtAsunto.TabIndex = 7;
             this.txtAsunto.Text = "Ejemplo: Necesito carpintero";
             // 
@@ -160,7 +160,7 @@
             this.txtRutaArchivo.Location = new System.Drawing.Point(49, 254);
             this.txtRutaArchivo.Margin = new System.Windows.Forms.Padding(4);
             this.txtRutaArchivo.Name = "txtRutaArchivo";
-            this.txtRutaArchivo.Size = new System.Drawing.Size(345, 18);
+            this.txtRutaArchivo.Size = new System.Drawing.Size(345, 23);
             this.txtRutaArchivo.TabIndex = 8;
             this.txtRutaArchivo.Text = "CV, Certificados, etc";
             // 
@@ -210,7 +210,7 @@
             this.txtPassword.Margin = new System.Windows.Forms.Padding(4);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(395, 18);
+            this.txtPassword.Size = new System.Drawing.Size(395, 23);
             this.txtPassword.TabIndex = 11;
             // 
             // openFileDialog1
@@ -228,6 +228,7 @@
             this.rtbMensaje.Size = new System.Drawing.Size(395, 90);
             this.rtbMensaje.TabIndex = 12;
             this.rtbMensaje.Text = "";
+            this.rtbMensaje.TextChanged += new System.EventHandler(this.rtbMensaje_TextChanged);
             // 
             // panel1
             // 
@@ -278,7 +279,7 @@
             this.label6.ForeColor = System.Drawing.Color.DarkGray;
             this.label6.Location = new System.Drawing.Point(88, 21);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(303, 32);
+            this.label6.Size = new System.Drawing.Size(379, 40);
             this.label6.TabIndex = 15;
             this.label6.Text = "CONTACTAR USUARIO";
             // 
@@ -290,7 +291,7 @@
             this.label7.Location = new System.Drawing.Point(46, 339);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(66, 17);
+            this.label7.Size = new System.Drawing.Size(78, 20);
             this.label7.TabIndex = 14;
             this.label7.Text = "Mensaje*";
             // 
@@ -305,7 +306,7 @@
             // 
             // FormEnviarCorreo
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 11F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.ClientSize = new System.Drawing.Size(914, 573);

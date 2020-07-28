@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "3.5.0.0",
+        "fileVersion": "3.5.0-beta4-20153-05 (20b9af91)",
+        "semanticVersion": "3.5.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS0016",
+          "level": "error",
+          "message": "No se puede escribir en el archivo de salida 'C:\\Users\\TEC\\Downloads\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.xml': 'No se puede encontrar una parte de la ruta de acceso 'C:\\Users\\TEC\\Downloads\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.xml'.'"
+        }
+      ],
+      "rules": {
+        "CS0016": {
+          "id": "CS0016",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

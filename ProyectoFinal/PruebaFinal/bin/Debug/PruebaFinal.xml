@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PruebaFinal</name>
+    </assembly>
+    <members>
+        <member name="T:PruebaFinal.Pruebas">
+            <summary>Clase Pruebas contendra todas las pruebas unitarias que se realizarón en el proyecto.</summary>
+        </member>
+        <member name="P:PruebaFinal.Pruebas.TestContext">
+            <summary>Gets or sets the test context.</summary>
+            <value>The test context.</value>
+        </member>
+        <member name="M:PruebaFinal.Pruebas.RegistroUsuarioPrueba">
+             <summary>La prueba RegistroUsuarioPrueba se encarga de probar el registro de usuario satisfactorio
+             eso depende de los parametros registrados y la concidencia de la contraseña actual con la esperada
+            
+             .</summary>
+        </member>
+        <member name="M:PruebaFinal.Pruebas.CorreoValidoPrueba">
+            <summary>El metodo CorreoValidoPrueba se encargará de probar la concidencia del registro de los correos tanto del emisor como del 
+            receptor con los correos validos .</summary>
+        </member>
+        <member name="M:PruebaFinal.Pruebas.ContraseñaPrueba">
+            <summary>El método ContraseñaPrueba se encargará de probar que la contraseña registrada cumpla con las
+            politicas de seguridad las cuales son las siguientes:
+            la longitud maxima de caracteres = 18
+            No contener espacios
+            Contener valores Alfanuméricos
+            Etc
+            .</summary>
+        </member>
+        <member name="M:PruebaFinal.Pruebas.FiltrarSalario">
+            <summary>El método FiltrarSalario se encargará de probar que el rango de salarios digitados sean
+            validos segun los casos de prueba.</summary>
+        </member>
+    </members>
+</doc>

@@ -26,3 +26,37 @@ C:\Users\TEC\Downloads\ProyectoFinal\Loggin\obj\Debug\EnviarCorreo.FormEnviarCor
 C:\Users\TEC\Downloads\ProyectoFinal\Loggin\obj\Debug\Loggin.FormCalificarTrabajo.resources
 C:\Users\TEC\Downloads\ProyectoFinal\Loggin\obj\Debug\ModificarPublicacion.FormModTrabajo.resources
 C:\Users\TEC\Downloads\ProyectoFinal\Loggin\bin\Debug\Loggin.xml
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\bin\Debug\Loggin.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\bin\Debug\Loggin.xml
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\bin\Debug\Loggin.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\bin\Debug\Loggin.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\login.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.FormCalificarTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\EnviarCorreo.FormEnviarCorreo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.FormLogin.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\ModificarPublicacion.FormModTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\PublicarTrabajo.FormPublicarTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\RegistrarUsuario.FormRegistrarUsuario.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.Notificacion.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.Properties.Resources.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\login.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\Loggin\obj\Debug\Loggin.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.exe.config
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.xml
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\login.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.FormCalificarTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\EnviarCorreo.FormEnviarCorreo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.FormLogin.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\ModificarPublicacion.FormModTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\PublicarTrabajo.FormPublicarTrabajo.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\RegistrarUsuario.FormRegistrarUsuario.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.Notificacion.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.Properties.Resources.resources
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\login.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.exe
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\obj\Debug\Loggin.pdb

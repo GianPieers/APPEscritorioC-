@@ -63,3 +63,15 @@ C:\Users\TEC\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\Proye
 C:\Users\TEC\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
 C:\Users\TEC\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
 C:\Users\TEC\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\CSProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb

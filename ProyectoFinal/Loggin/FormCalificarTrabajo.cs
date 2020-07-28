@@ -38,6 +38,7 @@ namespace Loggin
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
+            // No hace ninguna operacion, solo es el modulo de boton buscar 
         }
 
         /// <summary>Maneja el evento Click del control del botón btnSalir.</summary>
@@ -55,7 +56,7 @@ namespace Loggin
         /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
         private void btnCalificar_Click(object sender, EventArgs e)
         {
-            string query = "UPDATE tblTrabajos SET Calificacion = @calif WHERE ID = @id";
+            estring query = "UPDATE tblTrabajos SET Calificacion = @calif WHERE ID = @id";
             conexion.Open();
             SqlCommand comando = new SqlCommand(query, conexion);
             comando.Parameters.AddWithValue("@calif", calif);
@@ -108,11 +109,12 @@ namespace Loggin
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            //No hace nada
         }
 
         private void FormCalificarTrabajo_Load(object sender, EventArgs e)
         {
+            //No hace nada
 
         }
 

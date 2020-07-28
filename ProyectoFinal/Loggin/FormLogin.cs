@@ -109,12 +109,12 @@ namespace Loggin
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void txtaver_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento LinkClicked del control de linkLblCrearCuenta.</summary>
@@ -129,12 +129,12 @@ namespace Loggin
 
         private void txtUsuario_TextChanged(object sender, EventArgs e)
         {
-            
+            //no hace nada
         }
 
         private void FormLogin_Load(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
     }
 }

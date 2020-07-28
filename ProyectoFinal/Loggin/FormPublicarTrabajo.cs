@@ -25,12 +25,12 @@ namespace PublicarTrabajo
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnPubliTrabajo.</summary>
@@ -60,28 +60,28 @@ namespace PublicarTrabajo
         
         private void Form1_Load(object sender, EventArgs e)
         {
-           
-            
+
+            //no hace nada
         }
 
         private void label7_Click(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void txtCorreo_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void label1_Click_1(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         private void txtOficio_TextChanged(object sender, EventArgs e)
         {
-
+            //no hace nada
         }
 
         /// <summary>Maneja el evento Click del control de btnCancelar.</summary>
