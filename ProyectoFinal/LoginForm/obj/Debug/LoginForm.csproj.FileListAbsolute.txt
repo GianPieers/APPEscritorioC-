@@ -1,0 +1,19 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\bin\Debug\LoginForm.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\bin\Debug\LoginForm.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\bin\Debug\LoginForm.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\TEC\Downloads\ProyectoFinal\LoginForm\obj\Debug\LoginForm.pdb

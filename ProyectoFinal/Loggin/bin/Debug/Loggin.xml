@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Loggin</name>
+    </assembly>
+    <members>
+        <member name="T:EnviarCorreo.Correo">
+            <summary>Clase Correo para la funcionalidad Contactar Usuario.</summary>
+        </member>
+        <member name="M:EnviarCorreo.Correo.enviarCorreo(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>Enviar correo.</summary>
+            <param name="emisor">El correo del emisor.</param>
+            <param name="password">La contraseña del correo.</param>
+            <param name="mensaje">El mensaje.</param>
+            <param name="asunto">El asunto.</param>
+            <param name="destinatario">El correo del destinatario.</param>
+            <param name="ruta">La ruta del archivo adjunto.</param>
+        </member>
+        <member name="F:EnviarCorreo.FormEnviarCorreo.c">
+            <summary>Crea una instancia de la clase Correo.</summary>
+        </member>
+        <member name="M:EnviarCorreo.FormEnviarCorreo.BtnEnviar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de BtnEnviar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:EnviarCorreo.FormEnviarCorreo.btnAdjuntar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnAdjuntar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+            <exception cref="T:System.Exception">Lanza una excepción si falla al cargar el archivo.</exception>
+        </member>
+        <member name="M:EnviarCorreo.FormEnviarCorreo.btnCancelar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnCancelar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:EnviarCorreo.FormEnviarCorreo.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:EnviarCorreo.FormEnviarCorreo.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:EnviarCorreo.FormEnviarCorreo.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:Loggin.FormCalificarTrabajo.conexion">
+            <summary>Cadena de conexión con la DB</summary>
+        </member>
+        <member name="F:Loggin.FormCalificarTrabajo.calif">
+            <summary>Variable global</summary>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.LlenarTabla">
+            <summary>Llena la tabla con datos de la BD.</summary>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.#ctor">
+            <summary>Inicializa una nueva instancia de <see cref="T:Loggin.FormCalificarTrabajo" /> class.</summary>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.btnSalir_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control del botón btnSalir.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.btnCalificar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control del botón btnCalificar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.radioBtn1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento CheckedChanged del control de radioBtn1.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.radioBtn2_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento CheckedChanged del control de radioBtn2.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.radioBtn3_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento CheckedChanged del control de radioBtn3.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.radioBtn4_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento CheckedChanged del control de radioBtn4.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.radioBtn5_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento CheckedChanged del control de radioBtn5.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.txtIdTrabajo_TextChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento TextChanged del control de txtIdTrabajo.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:Loggin.FormCalificarTrabajo.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Loggin.FormCalificarTrabajo.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Loggin.FormLogin.conString">
+            <summary>Cadena de conesión con la BD.</summary>
+        </member>
+        <member name="M:Loggin.FormLogin.btnIngresar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnIngresar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.FormLogin.linkLblCrearCuenta_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+            <summary>Maneja el evento LinkClicked del control de linkLblCrearCuenta.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.Windows.Forms.LinkLabelLinkClickedEventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:Loggin.FormLogin.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:Loggin.FormLogin.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:Loggin.FormLogin.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:Loggin.Notificacion.conexion">
+            <summary>Cadena de conexión con la BD.</summary>
+        </member>
+        <member name="M:Loggin.Notificacion.#ctor">
+            <summary>Inicializa una nueva instancia de frmMain<see cref="T:Loggin.Notificacion" /> class.</summary>
+        </member>
+        <member name="M:Loggin.Notificacion.btnPublicarTrabajo_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnPublicarTrabajo para ir a la ventana de Publicación.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.BtnSalir_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de BtnSalir para cerrar la aplicación.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.BtnCalifTrabajo_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de BtnCalifTrabajo para abrir la ventana Calificar Trabajo.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.btnContacUsuario_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnContacUsuario para abrir la ventana Contactar Usuario.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.radioButton1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control del radioButton1 para filtrar salario de 0 a 30.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.radioButton2_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de radioButton2 para filtrar salario de 30 a 60.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.radioButton3_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de radioButton3 para filtrar el salario de 60 a más.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.numSalario_ValueChanged(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de numSalario para busqueda por salario.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.btnModTrabajo_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnModTrabajo para ir a la ventana modificaciones.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:Loggin.Notificacion.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Loggin.Notificacion.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Loggin.Notificacion.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Loggin.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:Loggin.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:Loggin.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:Loggin.Properties.Resources.Culture">
+            <summary>
+              Invalida la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos usando esta clase de recursos fuertemente tipados.
+            </summary>
+        </member>
+        <member name="F:ModificarPublicacion.FormModTrabajo.conexion">
+            <summary>Cadena de conexión con la BD</summary>
+        </member>
+        <member name="M:ModificarPublicacion.FormModTrabajo.btnGuardar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnGuardar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:ModificarPublicacion.FormModTrabajo.btnCancelar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnCancelar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:ModificarPublicacion.FormModTrabajo.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:ModificarPublicacion.FormModTrabajo.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:ModificarPublicacion.FormModTrabajo.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:PublicarTrabajo.FormPublicarTrabajo.conString">
+            <summary>Cadena de conexión con la BD</summary>
+        </member>
+        <member name="M:PublicarTrabajo.FormPublicarTrabajo.btnPubliTrabajo_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnPubliTrabajo.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:PublicarTrabajo.FormPublicarTrabajo.btnCancelar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnCancelar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:PublicarTrabajo.FormPublicarTrabajo.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:PublicarTrabajo.FormPublicarTrabajo.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:PublicarTrabajo.FormPublicarTrabajo.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:RegistrarUsuario.FormRegistrarUsuario.conString">
+            <summary>Cadena de conexión con la BD.</summary>
+        </member>
+        <member name="M:RegistrarUsuario.FormRegistrarUsuario.btnRegistrar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de btnRegistrar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="M:RegistrarUsuario.FormRegistrarUsuario.BtnCancelar_Click(System.Object,System.EventArgs)">
+            <summary>Maneja el evento Click del control de BtnCancelar.</summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.EventArgs" /> instance containing the event data.</param>
+        </member>
+        <member name="F:RegistrarUsuario.FormRegistrarUsuario.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:RegistrarUsuario.FormRegistrarUsuario.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:RegistrarUsuario.FormRegistrarUsuario.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+    </members>
+</doc>
