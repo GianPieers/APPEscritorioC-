@@ -8,7 +8,7 @@
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>8.4.0.35506</SonarQubeVersion>
   <SonarProjectKey>ProyectoFinal</SonarProjectKey>
-  <SonarProjectVersion>4.0</SonarProjectVersion>
+  <SonarProjectVersion>1.0</SonarProjectVersion>
   <SonarProjectName>ProyectoFinal</SonarProjectName>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />

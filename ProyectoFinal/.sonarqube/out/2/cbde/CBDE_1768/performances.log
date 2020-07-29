@@ -3,179 +3,179 @@ enviarCorreo 6
 enviarCorreo 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormCalificarTrabajo.cs
-LlenarTabla 8
-LlenarTabla 0
+LlenarTabla 15
+LlenarTabla 15
 btnBuscar_Click 4
 btnBuscar_Click 0
-btnSalir_Click 6
-btnSalir_Click 0
-btnCalificar_Click 8
+btnSalir_Click 39
+btnSalir_Click 15
+btnCalificar_Click 4
 btnCalificar_Click 0
-radioBtn1_CheckedChanged 4
+radioBtn1_CheckedChanged 2
 radioBtn1_CheckedChanged 0
-radioBtn2_CheckedChanged 4
+radioBtn2_CheckedChanged 6
 radioBtn2_CheckedChanged 0
-radioBtn3_CheckedChanged 4
+radioBtn3_CheckedChanged 2
 radioBtn3_CheckedChanged 0
-radioBtn4_CheckedChanged 4
-radioBtn4_CheckedChanged 15
-radioBtn5_CheckedChanged 8
+radioBtn4_CheckedChanged 2
+radioBtn4_CheckedChanged 0
+radioBtn5_CheckedChanged 2
 radioBtn5_CheckedChanged 0
-dataGridView1_CellContentClick 3
+dataGridView1_CellContentClick 2
 dataGridView1_CellContentClick 0
-FormCalificarTrabajo_Load 3
-FormCalificarTrabajo_Load 0
-txtIdTrabajo_TextChanged 4
+FormCalificarTrabajo_Load 2
+FormCalificarTrabajo_Load 15
+txtIdTrabajo_TextChanged 2
 txtIdTrabajo_TextChanged 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormCalificarTrabajo.Designer.cs
-Dispose 6
+Dispose 2
 Dispose 0
-InitializeComponent 90
-InitializeComponent 93
+InitializeComponent 122
+InitializeComponent 78
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormEnviarCorreo.cs
-BtnEnviar_Click 4
+BtnEnviar_Click 3
 BtnEnviar_Click 0
-btnAdjuntar_Click 3
+btnAdjuntar_Click 2
 btnAdjuntar_Click 0
-txtEmisor_TextChanged 4
+txtEmisor_TextChanged 2
 txtEmisor_TextChanged 0
-label1_Click 3
+label1_Click 2
 label1_Click 0
-Form1_Load 3
+Form1_Load 2
 Form1_Load 0
-btnCancelar_Click 4
+btnCancelar_Click 3
 btnCancelar_Click 0
-rtbMensaje_TextChanged 3
+rtbMensaje_TextChanged 2
 rtbMensaje_TextChanged 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormEnviarCorreo.Designer.cs
-Dispose 3
+Dispose 2
 Dispose 0
-InitializeComponent 138
-InitializeComponent 140
+InitializeComponent 139
+InitializeComponent 62
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormLogin.cs
-btnIngresar_Click 8
-btnIngresar_Click 15
+btnIngresar_Click 12
+btnIngresar_Click 0
 btnSalir_Click 2
 btnSalir_Click 0
-label3_Click 3
+label3_Click 2
 label3_Click 0
-txtaver_TextChanged 3
+txtaver_TextChanged 4
 txtaver_TextChanged 0
-linkLblCrearCuenta_LinkClicked 4
-linkLblCrearCuenta_LinkClicked 15
-txtUsuario_TextChanged 3
+linkLblCrearCuenta_LinkClicked 2
+linkLblCrearCuenta_LinkClicked 0
+txtUsuario_TextChanged 2
 txtUsuario_TextChanged 0
-FormLogin_Load 3
+FormLogin_Load 2
 FormLogin_Load 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormLogin.Designer.cs
-Dispose 3
+Dispose 2
 Dispose 0
-InitializeComponent 42
-InitializeComponent 46
+InitializeComponent 61
+InitializeComponent 31
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormModTrabajo.cs
-Form1_Load 3
+Form1_Load 2
 Form1_Load 0
+btnGuardar_Click 6
 btnGuardar_Click 15
-btnGuardar_Click 15
-label1_Click 4
+label1_Click 2
 label1_Click 0
-textBox6_TextChanged 2
+textBox6_TextChanged 3
 textBox6_TextChanged 0
-btnCancelar_Click 3
+btnCancelar_Click 2
 btnCancelar_Click 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormModTrabajo.Designer.cs
-Dispose 2
+Dispose 30
 Dispose 15
-InitializeComponent 81
-InitializeComponent 78
+InitializeComponent 92
+InitializeComponent 46
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormPublicarTrabajo.cs
 listBox1_SelectedIndexChanged 2
 listBox1_SelectedIndexChanged 0
-label1_Click 3
+label1_Click 2
 label1_Click 0
-btnPubliTrabajo_Click 11
-btnPubliTrabajo_Click 15
+btnPubliTrabajo_Click 37
+btnPubliTrabajo_Click 0
 Form1_Load 2
 Form1_Load 0
 label7_Click 2
 label7_Click 0
 txtCorreo_TextChanged 2
-txtCorreo_TextChanged 0
-label1_Click_1 3
+txtCorreo_TextChanged 15
+label1_Click_1 2
 label1_Click_1 0
 txtOficio_TextChanged 3
 txtOficio_TextChanged 0
-btnCancelar_Click 4
+btnCancelar_Click 2
 btnCancelar_Click 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormPublicarTrabajo.Designer.cs
 Dispose 2
 Dispose 0
-InitializeComponent 125
-InitializeComponent 93
+InitializeComponent 63
+InitializeComponent 62
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormRegistrarUsuario.cs
-btnRegistrar_Click 18
-btnRegistrar_Click 15
+btnRegistrar_Click 6
+btnRegistrar_Click 0
 dataGridView1_CellContentClick 2
 dataGridView1_CellContentClick 0
-Form1_Load 11
+Form1_Load 2
 Form1_Load 0
-label3_Click 3
+label3_Click 2
 label3_Click 0
-BtnCancelar_Click 4
+BtnCancelar_Click 2
 BtnCancelar_Click 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\FormRegistrarUsuario.Designer.cs
-Dispose 2
+Dispose 3
 Dispose 0
-InitializeComponent 105
-InitializeComponent 62
+InitializeComponent 52
+InitializeComponent 46
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\frmMain.cs
-Notificacion_Load 3
+Notificacion_Load 2
 Notificacion_Load 0
 textBox1_TextChanged 2
 textBox1_TextChanged 0
 btnPublicarTrabajo_Click 3
 btnPublicarTrabajo_Click 0
-BtnSalir_Click 3
+BtnSalir_Click 2
 BtnSalir_Click 0
-BtnCalifTrabajo_Click 4
-BtnCalifTrabajo_Click 15
+BtnCalifTrabajo_Click 3
+BtnCalifTrabajo_Click 0
 dataGridView1_CellContentClick 2
 dataGridView1_CellContentClick 0
 btnContacUsuario_Click 3
-btnContacUsuario_Click 0
-textBox2_TextChanged 3
+btnContacUsuario_Click 15
+textBox2_TextChanged 2
 textBox2_TextChanged 0
-radioButton1_CheckedChanged 6
-radioButton1_CheckedChanged 15
-radioButton2_CheckedChanged 6
+radioButton1_CheckedChanged 3
+radioButton1_CheckedChanged 0
+radioButton2_CheckedChanged 4
 radioButton2_CheckedChanged 0
-radioButton3_CheckedChanged 5
-radioButton3_CheckedChanged 0
-numSalario_ValueChanged 6
+radioButton3_CheckedChanged 4
+radioButton3_CheckedChanged 15
+numSalario_ValueChanged 4
 numSalario_ValueChanged 0
-btnModTrabajo_Click 5
+btnModTrabajo_Click 2
 btnModTrabajo_Click 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\frmMain.Designer.cs
-Dispose 3
+Dispose 2
 Dispose 0
-InitializeComponent 121
-InitializeComponent 109
+InitializeComponent 126
+InitializeComponent 78
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Program.cs
-Main 3
+Main 2
 Main 0
 
 D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\Properties\AssemblyInfo.cs

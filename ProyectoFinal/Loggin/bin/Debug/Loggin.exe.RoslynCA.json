@@ -12,22 +12,361 @@
       },
       "results": [
         {
-          "ruleId": "CS0246",
-          "level": "error",
-          "message": "El nombre del tipo o del espacio de nombres 'estring' no se encontró (¿falta una directiva using o una referencia de ensamblado?)",
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormEnviarCorreo'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 26,
+                  "endLine": 10,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormEnviarCorreo.FormEnviarCorreo()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormCalificarTrabajo'",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
                 "region": {
-                  "startLine": 59,
-                  "startColumn": 13,
-                  "endLine": 59,
-                  "endColumn": 20
+                  "startLine": 8,
+                  "startColumn": 26,
+                  "endLine": 8,
+                  "endColumn": 46
                 }
               }
             }
-          ]
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormLogin'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 26,
+                  "endLine": 9,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormLogin.FormLogin()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormLogin.lblIntentos'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.Designer.cs",
+                "region": {
+                  "startLine": 197,
+                  "startColumn": 43,
+                  "endLine": 197,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Notificacion'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 26,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Notificacion.textBox1'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.Designer.cs",
+                "region": {
+                  "startLine": 368,
+                  "startColumn": 45,
+                  "endLine": 368,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'Notificacion.txtCorreo'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.Designer.cs",
+                "region": {
+                  "startLine": 370,
+                  "startColumn": 45,
+                  "endLine": 370,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormModTrabajo'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 26,
+                  "endLine": 10,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormModTrabajo.FormModTrabajo()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormPublicarTrabajo'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 26,
+                  "endLine": 9,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormPublicarTrabajo.conString'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormPublicarTrabajo.FormPublicarTrabajo()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 16,
+                  "endLine": 19,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormRegistrarUsuario'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 26,
+                  "endLine": 9,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormRegistrarUsuario.FormRegistrarUsuario()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 16,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Falta el comentario XML para el tipo o miembro visible de forma pública 'FormRegistrarUsuario.txtCorreo'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.Designer.cs",
+                "region": {
+                  "startLine": 303,
+                  "startColumn": 45,
+                  "endLine": 303,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
         },
         {
           "ruleId": "S2933",
@@ -72,6 +411,48 @@
           }
         },
         {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
@@ -80,9 +461,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
                 "region": {
-                  "startLine": 34,
+                  "startLine": 26,
                   "startColumn": 13,
-                  "endLine": 34,
+                  "endLine": 26,
                   "endColumn": 32
                 }
               }
@@ -101,9 +482,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
                 "region": {
-                  "startLine": 79,
+                  "startLine": 71,
                   "startColumn": 13,
-                  "endLine": 79,
+                  "endLine": 71,
                   "endColumn": 83
                 }
               }
@@ -122,9 +503,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
                 "region": {
-                  "startLine": 45,
+                  "startLine": 39,
                   "startColumn": 79,
-                  "endLine": 45,
+                  "endLine": 39,
                   "endColumn": 90
                 }
               }
@@ -143,9 +524,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
                 "region": {
-                  "startLine": 50,
+                  "startLine": 44,
                   "startColumn": 13,
-                  "endLine": 50,
+                  "endLine": 44,
                   "endColumn": 106
                 }
               }
@@ -164,9 +545,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
                 "region": {
-                  "startLine": 12,
+                  "startLine": 6,
                   "startColumn": 1,
-                  "endLine": 12,
+                  "endLine": 6,
                   "endColumn": 29
                 }
               }
@@ -185,9 +566,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
                 "region": {
-                  "startLine": 38,
+                  "startLine": 32,
                   "startColumn": 13,
-                  "endLine": 38,
+                  "endLine": 32,
                   "endColumn": 85
                 }
               }
@@ -198,18 +579,18 @@
           }
         },
         {
-          "ruleId": "S125",
+          "ruleId": "S2292",
           "level": "warning",
-          "message": "Remove this commented out code.",
+          "message": "Make this an auto-implemented property and remove its backing field.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
                 "region": {
-                  "startLine": 44,
-                  "startColumn": 13,
-                  "endLine": 44,
-                  "endColumn": 158
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 32
                 }
               }
             }
@@ -227,9 +608,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
                 "region": {
-                  "startLine": 37,
+                  "startLine": 31,
                   "startColumn": 16,
-                  "endLine": 37,
+                  "endLine": 31,
                   "endColumn": 20
                 }
               }
@@ -240,153 +621,6 @@
           }
         },
         {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 2,
-                  "startColumn": 1,
-                  "endLine": 2,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormCalificarTrabajo.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 1,
-                  "endLine": 9,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 23,
-                  "endLine": 20,
-                  "endColumn": 107
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S1104",
           "level": "warning",
           "message": "Make this field 'private' and encapsulate it in a 'public' property.",
@@ -395,9 +629,9 @@
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
                 "region": {
-                  "startLine": 19,
+                  "startLine": 12,
                   "startColumn": 23,
-                  "endLine": 19,
+                  "endLine": 12,
                   "endColumn": 107
                 }
               }
@@ -411,876 +645,15 @@
           "ruleId": "S1104",
           "level": "warning",
           "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 23,
-                  "endLine": 20,
-                  "endColumn": 107
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 1,
-                  "endLine": 4,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 1,
-                  "endLine": 5,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 2,
-                  "startColumn": 1,
-                  "endLine": 2,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 1,
-                  "endLine": 5,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 1,
-                  "endLine": 11,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormLogin.cs",
                 "region": {
                   "startLine": 12,
-                  "startColumn": 1,
+                  "startColumn": 23,
                   "endLine": 12,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 1,
-                  "endLine": 4,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormModTrabajo.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 1,
-                  "endLine": 9,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 1,
-                  "endLine": 4,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 1,
-                  "endLine": 9,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 1,
-                  "endLine": 10,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormPublicarTrabajo.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 1,
-                  "endLine": 13,
-                  "endColumn": 24
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 2,
-                  "startColumn": 1,
-                  "endLine": 2,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 1,
-                  "endLine": 5,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormRegistrarUsuario.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 2,
-                  "startColumn": 1,
-                  "endLine": 2,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 1,
-                  "endLine": 7,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 1,
-                  "endLine": 9,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/Program.cs",
-                "region": {
-                  "startLine": 2,
-                  "startColumn": 1,
-                  "endLine": 2,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/Program.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/Program.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 1,
-                  "endLine": 4,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/Program.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 1,
-                  "endLine": 6,
-                  "endColumn": 29
+                  "endColumn": 107
                 }
               }
             }
@@ -1302,6 +675,48 @@
                   "startColumn": 1,
                   "endLine": 2,
                   "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure that executing SQL queries is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 34,
+                  "endLine": 156,
+                  "endColumn": 143
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 59,
+                  "endLine": 43,
+                  "endColumn": 64
                 }
               }
             }
@@ -1351,61 +766,20 @@
           "properties": {
             "warningLevel": 1
           }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/FormEnviarCorreo.cs",
-                "region": {
-                  "startLine": 47,
-                  "startColumn": 59,
-                  "endLine": 47,
-                  "endColumn": 64
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2077",
-          "level": "warning",
-          "message": "Make sure that executing SQL queries is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/UNIVERSIDAD/CICLO%206/Construccion%20de%20software/presentacionFinal/ProyectoFinal/Loggin/frmMain.cs",
-                "region": {
-                  "startLine": 162,
-                  "startColumn": 34,
-                  "endLine": 162,
-                  "endColumn": 143
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
         }
       ],
       "rules": {
-        "CS0246": {
-          "id": "CS0246",
-          "defaultLevel": "error",
+        "CS1591": {
+          "id": "CS1591",
+          "shortDescription": "Falta el comentario XML para el tipo o miembro visible públicamente",
+          "fullDescription": "Se especificó la opción del compilador /doc, pero una o más construcciones no tenían comentarios.",
+          "defaultLevel": "warning",
           "properties": {
             "category": "Compiler",
             "isEnabledByDefault": true,
             "tags": [
               "Compiler",
-              "Telemetry",
-              "NotConfigurable"
+              "Telemetry"
             ]
           }
         },
@@ -1507,6 +881,23 @@
               "SonarWay",
               "MainSourceScope",
               "NotConfigurable"
+            ]
+          }
+        },
+        "S2292": {
+          "id": "S2292",
+          "shortDescription": "Trivial properties should be auto-implemented",
+          "fullDescription": "Trivial properties, which include no logic but setting and getting a backing field should be converted to auto-implemented properties, yielding cleaner and more readable code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2292",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         },

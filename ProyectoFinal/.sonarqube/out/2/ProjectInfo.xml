@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>login</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>95419760-9ac1-4e69-8f59-3f8c64a717dc</ProjectGuid>
+  <FullPath>D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\login.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\.sonarqube\out\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.exe.RoslynCA.json|D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\Loggin\bin\Debug\Loggin.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">D:\UNIVERSIDAD\CICLO 6\Construccion de software\presentacionFinal\ProyectoFinal\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>
