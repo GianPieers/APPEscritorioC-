@@ -1,23 +1,21 @@
 ﻿using Loggin;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using PublicarTrabajo;
-using RegistrarUsuario;
+
 
 namespace PublicarTrabajo
 {
     public partial class FormPublicarTrabajo : Form
     {
         /// <summary>Cadena de conexión con la BD</summary>
-        public string conString = "Data Source=TEC-PC;Initial Catalog=BDTrabajos;Integrated Security=True";
+        private string ConString = "Data Source=TEC-PC;Initial Catalog=BDTrabajos;Integrated Security=True";
+
+        public string conString
+        {
+            get { return ConString; }
+            set { ConString = value; }
+        }
         public FormPublicarTrabajo()
         {
             InitializeComponent();

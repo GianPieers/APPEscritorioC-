@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Loggin;
@@ -17,6 +10,7 @@ namespace RegistrarUsuario
     {
         /// <summary>Cadena de conexión con la BD.</summary>
         public string conString = "Data Source=TEC-PC;Initial Catalog=BDTrabajos;Integrated Security=True";
+
         public FormRegistrarUsuario()
         {
             InitializeComponent();

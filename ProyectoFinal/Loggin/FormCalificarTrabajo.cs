@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Loggin
@@ -56,7 +50,7 @@ namespace Loggin
         /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
         private void btnCalificar_Click(object sender, EventArgs e)
         {
-            estring query = "UPDATE tblTrabajos SET Calificacion = @calif WHERE ID = @id";
+            string query = "UPDATE tblTrabajos SET Calificacion = @calif WHERE ID = @id";
             conexion.Open();
             SqlCommand comando = new SqlCommand(query, conexion);
             comando.Parameters.AddWithValue("@calif", calif);

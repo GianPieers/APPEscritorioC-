@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0027: Usar cuerpo de expresiones para los descriptores de acceso
+csharp_style_expression_bodied_accessors = true:silent
