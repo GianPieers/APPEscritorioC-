@@ -5,6 +5,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using Loggin;
 
+//GIAN PIEERS DE LA CRUZ QUINCHO
 namespace ModificarPublicacion
 {
     public partial class FormModTrabajo : Form
